@@ -1,0 +1,24 @@
+{
+  "course": [
+    {
+      "id": 122,
+      "name": "Angular JS-2 update Values",
+      "duration": "2 months",
+      "fee": "124500"
+    },
+    {
+      "id": 124,
+      "name": "Angular JS-4",
+      "duration": "2 months",
+      "fee": 14000,
+      "imgUrl": "https://www.tutorialspoint.com/angular4/images/angular-4-mini-logo.jpg"
+    },
+    {
+      "id": 125,
+      "name": "React Native",
+      "duration": "1 month",
+      "fee": 10000,
+      "imgUrl": "https://www.tutorialspoint.com/react_native/images/react-native-mini-logo.jpg"
+    }
+  ]
+}

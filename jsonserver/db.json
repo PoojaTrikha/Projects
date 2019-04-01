@@ -1,0 +1,22 @@
+{
+    "employees": [
+                    {
+                        "id": 100,
+                        "name": "Pooja",
+                        "mobile": "998877665544",
+                        "email": "pooja@gmail.com"
+                    },
+                    {
+                        "id": 101,
+                        "name": "Ramesh",
+                        "mobile": "448877665544",
+                        "email": "ramesh@gmail.com"
+                    },
+                    {
+                        "id": 102,
+                        "name": "Rahul",
+                        "mobile": "668877665544",
+                        "email": "rahul@gmail.com"
+                    }
+                 ]
+}
